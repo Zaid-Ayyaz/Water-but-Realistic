@@ -1,4 +1,4 @@
-![Water but Realistic](https://media.forgecdn.net/avatars/thumbnails/486/680/64/64/637788851736684112.png)
+![Water but Realistic](https://github.com/Zaid-Ayyaz/Water-but-Realistic/blob/main/thumbnail.png)
 # Water-but-Realistic
 You will have a Convenient Shader like Water
 
